@@ -1,0 +1,14 @@
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.AssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\user\Documents\учебники и задания\2 курс\теорія алгоритмів\лаби\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
